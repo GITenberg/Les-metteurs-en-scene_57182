@@ -1,0 +1,34 @@
+_repo: Les-metteurs-en-scene_57182
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Olivieri, David
+    - Wharton, Edith Newbold Jones
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Nouvelles
+gutenberg_issued: '2018-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57182'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+tableOfContents: Les metteurs en scène -- Les deux autres -- Échéance -- Lendemain
+  -- La tragédie de la muse -- Le confessionnal -- Le verdict -- L'Ermite et la femme
+  sauvage
+title: Les metteurs en scène
+url: http://www.gutenberg.org/ebooks/57182
